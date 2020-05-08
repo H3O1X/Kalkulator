@@ -13,8 +13,9 @@ def kali(x,y):
 	
 def bagi(x,y):
 	return x/y
-	
-print("pilih operasi hitung:")
+
+print("H3O1X Simple Calculator")	
+print("Pilih operasi hitung:")
 print("1. Penjumlahan")
 print("2. Pengurangan")
 print("3. Perkalian")
