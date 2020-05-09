@@ -14,6 +14,14 @@ def kali(x,y):
 def bagi(x,y):
 	return x/y
 
+print ("\033[1;32m   _   __ ______ ____ ___ __    __")
+print ("  / /_/ //_____//_  //_  /\ \  / /")
+print (" /  _  /____/ ///_//  / /  \ \/ /")
+print ("/_/ /_//___  //___/  / /   / /\ \ ")
+print (" _________/ /_______/ /___/_/__\ \ ")
+print ("/__________//____________//______/")
+print ("\011\010\011H3O1X Tools\n")
+
 print("H3O1X Simple Calculator")	
 print("Pilih operasi hitung:")
 print("1. Penjumlahan")
